@@ -6,3 +6,7 @@ This repository contains my roadmap.sh projects
 ### Single-Page CV
 
 https://roadmap.sh/projects/single-page-cv
+
+### Basic HTML Website (Personal Portfolio)
+
+https://roadmap.sh/projects/basic-html-website
