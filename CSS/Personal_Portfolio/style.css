@@ -1,0 +1,110 @@
+body{
+    margin-top:50px;
+    margin-bottom:50px;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    background-color:#0D0106;
+}
+
+#theme_icon{
+    height:50px;
+    width:50px;
+    cursor:pointer;
+}
+
+header{
+    background-color:#657ED4;
+    position:fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    height:80px;
+    padding-right:10px;
+    padding-left:10px;
+}
+
+.box{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-direction:row;
+}
+
+.section-title{
+    color:#FBFBFF;
+    text-align:left;
+    margin-right:50%;
+}
+
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-direction:row;
+}
+
+.navbar a{
+    color:white;
+    text-decoration:none;
+    padding:15px;
+    display:flex;
+    text-align:center;
+}
+
+.navbar ul {
+    list-style-type:none;
+    background-color:#3626A7;
+    padding:0px;
+    margin:0px;
+    display:flex;
+    overflow:hidden;
+}
+
+h2{
+    color:#FBFBFF;
+}
+
+p{
+    color:#FBFBFF;
+    font-family:sans-serif;
+}
+
+ul{
+    color:#FBFBFF;
+}
+
+dl{
+    color:#FBFBFF;
+}
+
+address{
+    color:#FBFBFF;
+}
+
+main{
+    position:auto;
+    padding:24px;
+}
+
+footer{
+    background-color:#657ED4;
+    display:flex;
+    justify-content:space-around;
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    max-height:500px;
+    z-index: 1000;
+}
+
+/*Future component color #FF331F*/
+
+/*Light Theme Colors
+    - Background color => #E5C2C0
+    - Navigation bar => #8FD5A6
+    - Header/Footer => #329F5B
+    - Text color => #020202
+    - Additional Color => #0D5D56
+*/
