@@ -11,6 +11,12 @@ https://roadmap.sh/projects/single-page-cv
 
 https://roadmap.sh/projects/basic-html-website
 
+## CSS
+
 ### Personal Portfolio
 
 https://roadmap.sh/projects/portfolio-website
+
+## JavaScript
+
+https://roadmap.sh/projects/js-greeting-builder
